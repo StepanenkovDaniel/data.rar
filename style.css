@@ -1,0 +1,161 @@
+*{
+   margin: 0;
+   padding: 0;
+   font-family: 'Montserrat', sans-serif;
+}
+
+/* body{
+   margin-left: 138px;
+   margin-right: 138px;
+
+} */
+
+.logo{
+   margin: 28px 137px;
+}
+
+.header-holder{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.navi ul{
+   display: flex;
+   align-items: center;
+   margin-right: 114px;
+}
+
+.navi ul li{
+   list-style: none;
+}
+
+.navi-holder{
+   margin-right: 33px;
+   margin-bottom: 33px;
+   text-decoration: none;
+   color: #020202;
+   font-weight: 500;
+   font-size: 15px;
+   line-height: 16px;
+   text-align: center;
+}
+
+.container {
+  background-image: url(bk.jpg);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.title{
+   color: #fff;
+   /* margin-left: 138px; */
+}
+
+.title-text{
+   /* margin-left: 138px; */
+   padding-top: 73px;
+   margin-bottom: 12px;
+   font-size: 48px;
+   font-weight: 800;
+   line-height: 59px;
+   /* color: #fff; */
+}
+
+.suptitle{
+   font-weight: 700;
+   font-size: 24px;
+   line-height: 35px;
+}
+
+.text{
+   display: flex;
+   align-items: center;
+   margin-top: 50px;
+}
+
+.text-img img{
+   margin-right: 9px;
+   /* margin-left: 138px; */
+}
+
+.text-text p{
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 26px;
+   color: #fff;
+}
+
+.text-alagin{
+   display: flex;
+   justify-content: space-between;
+}
+
+.container-2{
+   margin-left: 138px;
+   margin-right: 138px;
+}
+
+.first-time{
+   margin-bottom: 30px;
+   margin-top: 35px;
+   font-weight: 800;
+   font-size: 25px;
+   line-height: 65px;
+   color: #fff;
+}
+
+.btn a{
+   padding: 10px;
+   background-color:  #FEB447;
+   border-radius: 50px;
+   text-decoration: none;
+   color:#000000;
+   font-weight: 600;
+   font-size: 14px;
+   line-height: 17px;
+
+   transition: background-color 0.2s linear;
+}
+
+.btn a:hover{
+   background-color: #894b17;
+}
+
+.container-3{
+   margin-left: 257px;
+   margin-right: 237px;
+}
+
+.text-title{
+   margin-top: 73px;
+   margin-bottom: 24px;
+   font-weight: 700;
+   font-size: 15px;
+   line-height: 50px;
+}
+
+.holder-main-2{
+   margin-top: 20px;
+   margin-right: 105px;
+   margin-bottom: 30px;
+}
+
+.main-2-img{
+   margin-bottom: 9px;
+}
+
+.main-2-text{
+   font-weight: 400;
+   font-size: 20px;
+   line-height: 30px;
+}
+
+.main-2-alagin{
+   display:flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   
+}
